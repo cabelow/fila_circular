@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555005560 source:c:\codeblocks\fila_circular\fila_circular\fila_circular.c
+
+1555005609 source:c:\codeblocks\fila_circular\fila_circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_circular.h"
+
+1554993854 c:\codeblocks\fila_circular\fila_circular\fila_circular.h
+
